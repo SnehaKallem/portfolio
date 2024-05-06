@@ -9,6 +9,7 @@ import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
 import Experience from './components/Experience';
 import Header1 from './components/Header1';
+import About1 from './components/About1';
 
 const App = () => {
     return (
@@ -23,6 +24,7 @@ const App = () => {
                 <Route path="/contact" element={<Contact />} />
                 <Route path="/experience" element={<Experience />} />
                 <Route path="/header1" element={<Header1 />} />
+                <Route path="/about1" element={<About1 />} />
             </Routes>
         </Router>
     );
