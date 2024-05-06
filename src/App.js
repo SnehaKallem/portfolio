@@ -8,12 +8,13 @@ import Skills from './components/Skills';
 import Contact from './components/Contact';
 import Portfolio from './components/Portfolio';
 import Experience from './components/Experience';
+import Header1 from './components/Header1';
 
 const App = () => {
     return (
         <Router>
             <Routes>
-            <Route path="/" element={<Portfolio />} />
+            {/* <Route path="/" element={<Portfolio />} /> */}
             <Route path="/portfolio" element={<Portfolio />} />
                 <Route path="/header" element={<Header />} />
                 <Route path="/about" element={<About />} />
@@ -21,6 +22,8 @@ const App = () => {
                 <Route path="/skills" element={<Skills />} />
                 <Route path="/contact" element={<Contact />} />
                 <Route path="/experience" element={<Experience />} />
+                <Route path="/header1" element={<Header1 />} />
+                <Route path="/" element={<Header1 />} />
             </Routes>
         </Router>
     );
