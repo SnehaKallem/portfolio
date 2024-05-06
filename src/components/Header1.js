@@ -7,7 +7,7 @@ const Header1 = () => {
         <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
             <div className="container">
                 <a className="navbar-brand" href="/">
-                <img src="Sneha1.jpeg" alt="Profilepic" className="img-fluid rounded-circle" style={{ width: '40px', height: '40px' }} />
+                <img src="Sneha1.jpeg" alt="Profilepic" className="img-fluid rounded-circle" style={{ width: '30px', height: '30px' }} />
 
 
                     Sneha Portfolio
