@@ -7,7 +7,7 @@ const Header1 = () => {
         <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
             <div className="container">
                 <a className="navbar-brand" href="/">
-                <img src="Sneha1.jpeg" alt="Profilepic" className="img-fluid"  style={{ maxWidth: '150px', maxHeight: '150px', width: '100%', height: '100%', objectFit: 'cover' }}/>
+                <img src="Sneha1.jpeg" alt="Profilepic" className="img-fluid"  style={{ maxWidth: '150px', maxHeight: '150px', width: '50%', height: '50%', objectFit: 'cover' }}/>
                     Sneha Portfolio
                 </a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
