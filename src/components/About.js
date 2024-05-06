@@ -16,7 +16,7 @@ const About = () => {
                     </p>
                 </div>
                 <div className="col-md-4">
-                    <img src="Sneha.jpg" alt="Profile" className="img-fluid"  style={{ maxWidth: '150px', maxHeight: '150px', width: '100%', height: '100%', objectFit: 'cover' }}/>
+                    <img src="Sneha1.jpg" alt="Profile" className="img-fluid"  style={{ maxWidth: '150px', maxHeight: '150px', width: '100%', height: '100%', objectFit: 'cover' }}/>
                 </div>
             </div>
         </div>
