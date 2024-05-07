@@ -8,7 +8,7 @@ const Header1 = () => {
             <div className="container">
                 <a className="navbar-brand" href="#about1">
                     <img src="Sneha1.jpeg" alt="Profilepic" className="img-fluid rounded-circle" style={{ width: '30px', height: '30px' }} />
-                    Sneha Kallem
+                   &nbsp; Sneha Kallem
                 </a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>

@@ -1,10 +1,11 @@
 import React from 'react';
 import './aboutme.css'
 import { Button } from '@mui/material';
+import About1 from './About1';
 function AboutMe() {
   return (
-    <section className="text-center" style={{ marginTop: '150px' }} >
-      <h2 style={{ borderBottom: '1px solid black', paddingBottom: '0.5rem', display: 'inline-block', width: 'fit-content' }} >ABOUT ME</h2>
+      <section className="text-center" style={{ marginTop: '150px' }} >
+      <h2 style={{ borderBottom: '1px solid black', paddingBottom: '0.5rem', display: 'inline-block', width: 'fit-content' }} id='aboutme'>ABOUT ME</h2>
       
       <p className='heading-sec__sub'>
         Here you will find more information about me, what I do, and my current skills mostly in terms of programming and technology.
