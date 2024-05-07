@@ -15,9 +15,9 @@ const Header1 = () => {
                 </button>
                 <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
                     <ul className="navbar-nav">
-                        <li className="nav-item">
+                        {/* <li className="nav-item">
                             <a className="nav-link" href="#home">Home</a>
-                        </li>
+                        </li> */}
                         <li className="nav-item">
                             <a className="nav-link" href="#aboutme">About</a>
                         </li>
