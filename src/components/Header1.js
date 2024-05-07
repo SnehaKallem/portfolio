@@ -6,7 +6,7 @@ const Header1 = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light fixed-top">
             <div className="container">
-                <a className="navbar-brand" href="/aboutme">
+                <a className="navbar-brand" href="/#aboutme">
                     <img src="Sneha1.jpeg" alt="Profilepic" className="img-fluid rounded-circle" style={{ width: '30px', height: '30px' }} />
                     Sneha Kallem
                 </a>
