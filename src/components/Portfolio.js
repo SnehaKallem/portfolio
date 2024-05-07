@@ -12,7 +12,7 @@ import Skills from './Skills'
 
 function Portfolio() {
   return (
-    <div>
+    <div >
       <Header1/>
       <About1/>
       <AboutMe/>
