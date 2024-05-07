@@ -2,7 +2,7 @@ import React from 'react';
 
 function Projects1() {
   return (
-    <div className="container" style={{marginTop:'150px'}} id='projects'>
+    <div className="container" style={{marginTop:'150px'}} id='projects1'>
 
       <center><h2  style={{ borderBottom: '1px solid black', paddingBottom: '0.5rem', display: 'inline-block', width: 'fit-content' }}>Projects</h2></center>
       <div className="row">
