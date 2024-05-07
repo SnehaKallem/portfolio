@@ -6,7 +6,7 @@ import { Button } from '@mui/material';
 function About1() {
   return (
     <section className="text-center " style={{marginTop:'150px'}} >
-        <div style={{position: 'absolute',top: '50%',left: '50%',maxWidth: '90rem',width: '92%'}} id='about1' >
+      
       <h1 style={{letterSpacing:'3px',fontWeight:800,fontSize:'2rem'}}>HEY, I'M SNEHA KALLEM</h1>
       <div style={{ margin: '3rem auto 0 auto',maxWidth: '80rem' }}>
         <p>
@@ -21,7 +21,7 @@ function About1() {
         Projects
       </Button>
       </div>
-      </div>
+      
 
       <div>
         
