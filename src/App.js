@@ -10,7 +10,8 @@ import Portfolio from './components/Portfolio';
 import Experience from './components/Experience';
 import Header1 from './components/Header1';
 import About1 from './components/About1';
-
+import Projects1 from './components/Projects1';
+import AboutMe from './components/AboutMe';
 const App = () => {
     return (
         <Router>
@@ -25,6 +26,8 @@ const App = () => {
                 <Route path="/experience" element={<Experience />} />
                 <Route path="/header1" element={<Header1 />} />
                 <Route path="/about1" element={<About1 />} />
+                <Route path="/aboutme" element={<AboutMe />} />
+                <Route path="/projects1" element={<Projects1 />} />
             </Routes>
         </Router>
     );
