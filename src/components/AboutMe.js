@@ -23,10 +23,10 @@ function AboutMe() {
         <p>
           I'm currently open to job opportunities where I can contribute, learn, and grow.<br/> If you have a good opportunity that matches my skills and experience.
         </p>
-
-        <Button variant="contained" color="secondary" href="#projects1" style={{ marginTop: '1rem',width:'150px' }}>
+{/* 
+        <Button variant="contained" color="secondary" href="#contact" style={{ marginTop: '1rem',width:'150px' }}>
         Contact
-      </Button>
+      </Button> */}
       </div>
 
 
