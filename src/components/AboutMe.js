@@ -3,7 +3,7 @@ import './aboutme.css'
 import { Button } from '@mui/material';
 function AboutMe() {
   return (
-    <section className="text-center" style={{ marginTop: '150px' }}>
+    <section className="text-center" style={{ marginTop: '150px' }} id='about'>
       <h2 style={{ borderBottom: '1px solid black', paddingBottom: '0.5rem', display: 'inline-block', width: 'fit-content' }}>ABOUT ME</h2>
       
       <p className='heading-sec__sub'>
